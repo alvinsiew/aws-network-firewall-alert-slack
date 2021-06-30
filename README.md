@@ -17,7 +17,7 @@ zip function.zip main
 ```
 
 ## Create the environment variables
-![Optional Text](../main/screenshots/lambda.jpeg)
+![Optional Text](../main/screenshots/lambda_env.jpeg)
 CHANNEL: Slack channel name
 KMS_ARN: KMS ARN of KMS that is used to encrypt CHANNEL, USERNAME and WEBHOOKURL
 USERNAME: Slack username (can be any name)
