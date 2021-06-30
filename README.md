@@ -18,11 +18,11 @@ zip function.zip main
 
 ## Create the environment variables
 ![Optional Text](../main/screenshots/lambda_env.jpeg)
-CHANNEL: Slack channel name
-KMS_ARN: KMS ARN of KMS that is used to encrypt CHANNEL, USERNAME and WEBHOOKURL
-USERNAME: Slack username (can be any name)
+CHANNEL: Slack channel name \
+KMS_ARN: KMS ARN of KMS that is used to encrypt CHANNEL, USERNAME and WEBHOOKURL \
+USERNAME: Slack username (can be any name) \
 WEBHOOKURL: Slack web hook url
 
-Note:
-CHANNEL, USERNAME and WEBHOOKURL have to be encrypted.
+Note:\
+CHANNEL, USERNAME and WEBHOOKURL have to be encrypted.\
 KMS_ARN should not be encrypted
