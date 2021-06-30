@@ -26,3 +26,6 @@ WEBHOOKURL: Slack web hook url
 Note:\
 CHANNEL, USERNAME and WEBHOOKURL have to be encrypted.\
 KMS_ARN should not be encrypted
+
+## Slack notification sample look
+![Optional Text](../main/screenshots/slack_sample.jpeg)
